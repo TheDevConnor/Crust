@@ -1,0 +1,11 @@
+<map id="CodeGenContext" name="CodeGenContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="94,196,226,221"/>
+<area shape="rect" id="Node000002" href="$structLLVM__Symbol.html" title=" " alt="" coords="5,108,117,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,140,148,193,145,197,83,144"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="132,112,144,121,136,129,118,131,117,126,133,124,139,121,130,117"/>
+<area shape="rect" id="Node000003" href="$structArenaAllocator.html" title="Arena allocator structure." alt="" coords="199,108,318,133"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="237,144,175,197,172,193,233,140"/>
+<area shape="rect" id="Node000004" href="$structBuffer.html" title="Represents a memory buffer in the arena." alt="" coords="228,5,289,31"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="261,45,261,108,256,108,256,45"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="304,7,312,11,316,18,307,28,290,30,289,25,305,23,311,18,309,15,302,12"/>
+</map>
